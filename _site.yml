@@ -1,0 +1,32 @@
+name: "my-website"                                # CHANGE HERE 
+output_dir: "."
+navbar:
+  title: "Xiaoping Wu"                             # CHANGE HERE 
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "About"
+      icon: about
+      href: about.html
+    - text: "Publication"
+      icon: publications
+      href: publication.html
+  right:
+    - text: "Contact me"
+      icon: fa-envelope-o
+      href: mailto:xiaopingwu0923@gmail.com                    # CHANGE HERE 
+    - text: "linkedin"
+      icon: fa-linkedin fa-2x
+      href: https://www.linkedin.com/in/xiaoping-wu-5bb316b0/      
+    - text: "github"
+      icon: fa-github
+      href: https://github.com/Xiaoping-Wu       # CHANGE HERE 
+    - text: "twitter"
+      icon: fa-twitter fa-2x
+      href: https://twitter.com/wu50340717
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
