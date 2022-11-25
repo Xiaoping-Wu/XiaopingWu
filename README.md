@@ -48,3 +48,11 @@
 
 - Run "git push origin master" to push to remote server
 
+
+## Procedure 3: Publish your website
+
+- Go to your github repository
+
+- Got to "setting" -> "pages", choose correct branch and save.
+
+- Your website will be done in a few minutes.
