@@ -1,0 +1,20 @@
+---
+title: "**Hi, I am Xiaoping Wu!**"
+output: html_document
+---
+:::: {.columns}
+::: {.column width="60%"}
+![ ](1.jpeg)
+:::
+
+::: {.column width="40%"}
+I'm a research scientist in **bioinformatics**. I am contribute to both **human genetics in epidemiology** and **animal breeding and genetics**.
+
+
+[Read more about my work...](about.html)
+
+# **PERSONALITY**
+I am from China, and currently live in Denmark.   
+
+:::
+::::

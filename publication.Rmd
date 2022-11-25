@@ -1,0 +1,28 @@
+---
+title: "**Publications**"
+output: html_document
+---
+
+# **Journal articles**
+[**FULL LIST**](https://scholar.google.com/citations?view_op=list_works&hl=da&user=Shrk3ckAAAAJ)  
+
+* Robin N. Beaumont, Christopher Flatley, Marc Vaudel, Xiaoping Wu, et al. Genome-wide association study of placental weight in 179,025 children and parents reveals distinct and shared genetic influences between placental and fetal growth. Submitted. 2022.
+* Xiaoping Wu, et al. Novel haplotypes responsible for prenatal death in Nordic Red and Danish Jersey cattle. J Dairy Sci. 2020. [Open access](https://www.sciencedirect.com/science/article/pii/S0022030220302162)  
+* Xiaoping Wu, et al. Haplotypes responsible for early embryonic lethality detected in Nordic Holsteins. J Dairy Sci. 2019. [Open access](https://pubmed.ncbi.nlm.nih.gov/31548059/)   
+* Xiaoping Wu, et al. Association analysis for young stock survival index with imputed whole-genome sequence variants in Nordic Holstein cattle. J Dairy Sci. 2017. [Open access](https://www.sciencedirect.com/science/article/pii/S0022030217305301)  
+* Xiaoping Wu, et al. Association analysis for feet and legs disorders with wholegenome sequence variants in 3 dairy cattle breeds. J Dairy Sci. 2016. [Open access](https://pubmed.ncbi.nlm.nih.gov/27344389/)   
+* Sahana, G., T. Iso-Touru, X. Wu, et al. A 0.5-Mbp deletion on bovine chromosome 23 is a strong candidate for still- birth in Nordic Red cattle. Genet. Sel. Evol. 2016. [Open access](https://gsejournal.biomedcentral.com/articles/10.1186/s12711-016-0215-z)   
+* Xiaoping Wu, et al. Association analysis for udder health based on SNP-panel and sequence data in Danish Holsteins. Genet. Sel. Evol. 2015. [Open access](https://gsejournal.biomedcentral.com/articles/10.1186/s12711-015-0129-1)   
+* Xiaoping Wu, et al. Impact of relationships between test and training animals and among training animals on reliability of genomic prediction. J. Anim. Breed. Genet. 2015. [Open access](https://pubmed.ncbi.nlm.nih.gov/26010512/)  
+* Xiaoping Wu, et al. Genome wide association studies for body conformation traits in the Chinese Holstein cattle population. BMC Genomics 2013.  [Open access](https://pubmed.ncbi.nlm.nih.gov/24341352/)   
+
+
+# **Dissertation**
+Xiaoping Wu(2014). GWAS and Genome prediction based on markers of SNP-chips and sequence data in cattle population. PhD dissertation, Department of Molecular Biology and Genetics, Aarhus university, Denmark; and College of Animal Science and Technology, China agriculture University, China
+
+# **CONFERENCES**  
+* [NSHG-PM 2022](https://www.nshg-pm.org/conference-2022-general-information): Poster presentation: Mendelian randomization study of birth weight and risk of psychiatric disorders later in life.
+* [ICQG5 2016](www.icqg5.org): Poster presentation: Phenotypic effect of recessive embryonic lethal haplotypes on non-return rate in cattle.  
+* [EAAP 66th 2015](https://www.eaap.org/): Detection of haplotypes responsible for prenatal death in cattle.  
+* [WCGALP 2014](https://asas.confex.com/asas/WCGALP14/webprogram/start.html): Impact of Relationships between Test and Reference Animals and between Reference Animals on Reliability of Genomic Prediction.  
+* [EAAP 64th 2013](https://www.eaap.org/): Comparison on GWAS using different models and different markers data sets. 

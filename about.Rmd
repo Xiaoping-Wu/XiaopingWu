@@ -1,0 +1,39 @@
+---
+title: "**Xiaoping's CV**"
+output: html_document
+---
+
+![ ](2.jpeg){width=50%}
+
+# **PROFILE**  
+I am now mainly contributing to research on 
+
+* Genome wide association studies focus on pregnancy-related outcomes (placenta weight, birth weight and gestational duration) and selected childhood diseases (febrile seizure, psychiatric disease, epilepsy, metabolic disease, and congenital heart defect)  
+* Polygenic risk score estimation
+* Linear regression and Logistic regression analysis
+* Mendelian randomization analysis for Birth weight and psychiatric disease
+* Integrate Single-cell RNA sequencing data with genome-wide association results to distinguishes disease association cells
+  
+PhD and 5 years postdoc experience in **Quantitative Genetics and Genomics**. I was mainly contributing to research focusing on  
+
+*  Quantitative genetics and genomics  
+*  Population genetics  
+*  Statistical genetics  
+
+[My Publications](publication.html)
+
+
+I can offer  
+
+*  Years of experience in both **human genetics** and **animal breeding and genetics**  
+*  Years of experience on bioinformatics and post-GWAS analysis  
+*  Years of experience research within the field of genome wide association analysis and genomic prediction  
+*  Knowledge about different statistical genetic models - linear mixed model, Bayesian model and logistic regression model.
+*  Experience in handling large data set, such as whole genome sequence data and different density of SNP-chip data   
+*  Rich experience with linux, R, and python   
+*  Rich experience in reproducible research using Snakemake and conda
+  
+I thrive in diverse, team-based environments, and comfortable with leading and being led. 
+
+ 
+
